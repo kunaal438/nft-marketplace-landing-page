@@ -1,1 +1,1 @@
-# nft-marketplace-landing-page
+# NFT Marketplace Landing Page
