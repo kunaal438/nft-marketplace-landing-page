@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* color palatte */
+
+:root{
+    --bg-color: rgb(55, 9, 87);
+    --bg-radial-color:  radial-gradient(128.41% 94.4% at -19.71% -16.85%, rgba(73, 0, 125, 0.5) 0%, rgba(35, 0, 61, 0.5) 100%);
+    --text-color: #fff;
+    --darker-accent-color: #420072;
+    --lighter-accent-color: #b145fe;
+    --alpha-lighter-accent-color: rgb(177, 69, 254, 0.5);
+    --alpha-darker-accent-color: rgba(77, 0, 114, 0.75);
+    --shadow-color: rgba(0, 0, 0, 0.5);
+    --success-color: #3FC300;
+    --loss-color: #FF5959;
+    --secondary-text-color: #FEB702;
+    --footer-background: #1C0130;
+    --white-color: #fff;
+    --black-color: #000;
+}
